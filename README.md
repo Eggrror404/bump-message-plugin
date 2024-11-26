@@ -11,6 +11,8 @@
 This is a plugin that allows you to bump (reply with the same text) a message
 with a simple context-menu click.
 
+![bump message button in message context menu](https://github.com/user-attachments/assets/a8d0f393-6341-4056-b572-5723faef149a)
+
 ## How to install
 
 See <https://docs.vencord.dev/installing/custom-plugins/> for instructions.
